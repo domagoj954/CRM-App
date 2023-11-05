@@ -1,0 +1,7 @@
+.meetingTitle {
+  font-weight: 600 !important;
+}
+
+.completeMeeting:hover {
+  color: #7bec7b;
+}

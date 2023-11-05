@@ -1,0 +1,26 @@
+.taskForm {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  box-shadow: 2px;
+  padding: 3%;
+  border-radius: 12px;
+}
+
+.form {
+  padding-top: 15px;
+}
+
+.formActions {
+  padding-top: 30px;
+}
+
+.submitButton {
+  float: right;
+}
+
+.formTitle {
+  padding-left: 25px;
+}

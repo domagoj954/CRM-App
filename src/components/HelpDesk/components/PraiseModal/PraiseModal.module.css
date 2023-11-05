@@ -1,0 +1,25 @@
+.modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  box-shadow: 2px;
+  padding: 3%;
+  border-radius: 12px;
+}
+
+.praiseBox {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  box-shadow: 24px;
+  padding: 15px;
+  min-width: 800px;
+}
+
+.cancelButton {
+  margin-left: 10px;
+}

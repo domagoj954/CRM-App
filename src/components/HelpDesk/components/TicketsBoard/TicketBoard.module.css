@@ -1,0 +1,54 @@
+.toDoColumnHeader {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 3px 3px 3px 0px #80808030;
+  background-color: #00eaff;
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+  width: 90%;
+}
+
+.inProgressColumnHeader {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 3px 3px 3px 0px #80808030;
+  background-color: #ffd500;
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+  width: 90%;
+}
+
+.doneColumnHeader {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 3px 3px 3px 0px #80808030;
+  background-color: #7bec7b;
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+  width: 90%;
+}
+
+.noItems {
+  justify-content: center;
+  display: flex;
+  color: gray;
+  font-style: italic;
+  max-width: 90%;
+}
+
+.toggleButton {
+  margin-top: 7px;
+  min-width: 50px;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}

@@ -1,0 +1,51 @@
+.meetings {
+  max-width: 400px;
+  margin: 0 auto;
+  box-shadow: none !important;
+  max-height: 400px;
+}
+
+.meetingsTitle {
+  display: flex;
+  width: "100%";
+  display: flex;
+  background-color: #34b3b5;
+  color: white;
+  padding: 8px;
+  border-radius: 12px;
+  font-size: 1rem;
+}
+
+.meetingsLabel {
+  float: left;
+  width: 50%;
+}
+
+.meetingsToday {
+  text-align: right;
+  width: 50%;
+}
+
+.addMeetingButton {
+  margin: 10px 5px !important;
+  float: right;
+  font-size: 10px !important;
+  border-radius: 15px !important;
+}
+
+.meetingsList {
+  overflow-y: hidden;
+  max-height: 300px;
+  width: 100%;
+}
+
+.meetingsList:hover {
+  overflow-y: auto;
+}
+
+.noMeetingsMessage {
+  justify-content: center;
+  display: flex;
+  color: gray;
+  font-style: italic;
+}

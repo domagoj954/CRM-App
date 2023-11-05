@@ -1,0 +1,12 @@
+.headerTitle {
+  width: 50%;
+  display: flex;
+}
+.headerLogout {
+  width: 50%;
+  text-align: right;
+}
+
+.crm {
+  margin-top: 5px !important;
+}

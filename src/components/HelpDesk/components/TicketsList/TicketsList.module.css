@@ -1,0 +1,12 @@
+.ticketsList {
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-top: 30px;
+}
+
+.noItems {
+  justify-content: center;
+  display: flex;
+  color: gray;
+  font-style: italic;
+}

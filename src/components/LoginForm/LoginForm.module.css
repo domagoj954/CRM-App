@@ -1,0 +1,12 @@
+.logo {
+  width: 100%;
+  height: auto;
+}
+
+.login {
+  display: flex;
+  flex-direction: column !important;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}

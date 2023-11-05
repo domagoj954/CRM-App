@@ -1,0 +1,1228 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "SereneHaven Retreats",
+      "address": "Washington",
+      "email": "example2@gmail.com",
+      "phone_number": "11221122",
+      "category": "Client",
+      "users": [
+        5,
+        6
+      ],
+      "percent": 15,
+      "industry": "Energy",
+      "startDate": "2023-10-21"
+    },
+    {
+      "name": "InnovateTech Solutions",
+      "address": "Washington",
+      "email": "example2@gmail.com",
+      "phone_number": "11221122",
+      "category": "Potential client",
+      "id": 2,
+      "users": [
+        1,
+        2,
+        5
+      ],
+      "startDate": null,
+      "percent": 10,
+      "industry": "Education"
+    },
+    {
+      "name": "EcoWave Ventures",
+      "address": "Stockholm",
+      "email": "example3@gmail.com",
+      "phone_number": "333",
+      "category": "Potential client",
+      "id": 3,
+      "users": [
+        1,
+        8,
+        9
+      ],
+      "startDate": null,
+      "percent": 70,
+      "industry": "Energy"
+    },
+    {
+      "id": 4,
+      "name": "Quantum Sphere",
+      "address": "Paris",
+      "email": "example4@gmail.com",
+      "phone_number": "444132",
+      "category": "Partner",
+      "users": [
+        2,
+        3,
+        7
+      ],
+      "startDate": null,
+      "percent": 30,
+      "industry": "Education"
+    },
+    {
+      "id": 5,
+      "name": "TechNova Solutions",
+      "address": "Washington",
+      "email": "example2@gmail.com",
+      "phone_number": "11221122",
+      "category": "Client",
+      "users": [
+        2,
+        4,
+        6
+      ],
+      "startDate": "2023-11-11",
+      "percent": 80,
+      "industry": "Energy"
+    },
+    {
+      "id": 6,
+      "name": "Green Globe",
+      "address": "Houston",
+      "email": "example2@gmail.com",
+      "phone_number": "11221122",
+      "category": "Client",
+      "users": [
+        5,
+        6,
+        7
+      ],
+      "startDate": "2023-08-13T12:00:00.000Z",
+      "percent": 90,
+      "industry": "Finance"
+    },
+    {
+      "id": 7,
+      "name": "Nexus Wave",
+      "address": "Philadelphia",
+      "email": "example2@gmail.com",
+      "phone_number": "11221122",
+      "category": "Client",
+      "users": [
+        7,
+        8,
+        9
+      ],
+      "startDate": "2023-06-21T12:00:00.000Z",
+      "percent": 45,
+      "industry": "Finance"
+    },
+    {
+      "id": 8,
+      "name": "BioGenix Pharmaceuticals",
+      "address": "San Francisco",
+      "email": "example2@gmail.com",
+      "phone_number": "11221122",
+      "category": "Client",
+      "users": [
+        2,
+        3,
+        8,
+        7
+      ],
+      "startDate": "2022-08-10T12:00:00.000Z",
+      "percent": 35,
+      "industry": "Finance"
+    },
+    {
+      "id": 9,
+      "name": "Summit Stream",
+      "address": "San Diego",
+      "email": "example2@gmail.com",
+      "phone_number": "11221122",
+      "category": "Client",
+      "users": [
+        4,
+        5,
+        6
+      ],
+      "startDate": "2022-08-10T12:00:00.000Z",
+      "percent": 35,
+      "industry": "Real Estate"
+    },
+    {
+      "id": 10,
+      "name": "VirtuCore",
+      "address": "San Diego",
+      "email": "example2@gmail.com",
+      "phone_number": "11221122",
+      "category": "Client",
+      "users": [
+        2,
+        3,
+        6
+      ],
+      "startDate": "2022-08-10T12:00:00.000Z",
+      "percent": 35,
+      "industry": "Real Estate"
+    },
+    {
+      "name": "Testni klijent",
+      "address": "San Diego",
+      "email": "vfsdvsvsv@gmail.com",
+      "phone_number": "067273960",
+      "category": "Client",
+      "id": 11,
+      "users": [
+        5,
+        6
+      ],
+      "percent": 35,
+      "industry": "Real Estate",
+      "startDate": "2023-07-12"
+    },
+    {
+      "name": "Testni 2",
+      "address": "fvdr",
+      "email": "dejanica999@gmail.com",
+      "phone_number": "067273960",
+      "category": "Client",
+      "users": [
+        5,
+        6
+      ],
+      "id": 13,
+      "percent": 35,
+      "industry": "Real Estate",
+      "startDate": "2024-03-20"
+    },
+    {
+      "name": "Novi",
+      "address": "dcss",
+      "email": "vsdfvsv",
+      "phone_number": "067273960",
+      "category": "Client",
+      "users": [
+        5,
+        6
+      ],
+      "id": 14,
+      "percent": 1,
+      "industry": "Finance",
+      "startDate": "2023-08-09"
+    },
+    {
+      "name": "TEST",
+      "address": "dscdsc",
+      "email": "dejanica999@gmail.com",
+      "phone_number": "067273960",
+      "category": "Client",
+      "users": [
+        5,
+        6
+      ],
+      "percent": 0,
+      "industry": "Finance",
+      "id": 15,
+      "startDate": "2023-09-28"
+    },
+    {
+      "name": "cfsrcfs",
+      "address": "Joke Baletic bb",
+      "email": "dejanica999@gmail.com",
+      "phone_number": "067273960",
+      "category": "Client",
+      "users": [
+        5,
+        6
+      ],
+      "percent": 0,
+      "industry": "Hospitality",
+      "id": 16,
+      "startDate": "2022-10-12"
+    },
+    {
+      "name": "Client Mne",
+      "address": "4 Zivka Nikolica br 4",
+      "email": "ffwf",
+      "phone_number": "067273960",
+      "category": "Client",
+      "users": [
+        5,
+        6
+      ],
+      "percent": 0,
+      "industry": "Finance",
+      "startDate": "2023-11-03",
+      "id": 17
+    },
+    {
+      "name": "Client Mne",
+      "address": "4 Zivka Nikolica br 4",
+      "email": "csdcds",
+      "phone_number": "067273960",
+      "category": "Potential client",
+      "users": [
+        5,
+        6
+      ],
+      "percent": 0,
+      "industry": "Finance",
+      "startDate": "2023-10-20",
+      "id": 18
+    },
+    {
+      "name": "ddcsc",
+      "address": "sdcs",
+      "email": "csdcsd",
+      "phone_number": "csc",
+      "category": "Client",
+      "users": [
+        3,
+        5
+      ],
+      "percent": 0,
+      "industry": "Finance",
+      "startDate": "2023-10-27",
+      "id": 19
+    },
+    {
+      "name": "Novi klijent",
+      "address": "eheheheh",
+      "email": "dejanica999@gmail.com",
+      "phone_number": "067273960",
+      "category": "Client",
+      "users": [
+        4,
+        8,
+        9
+      ],
+      "percent": 0,
+      "industry": "Education",
+      "startDate": "2023-10-27",
+      "id": 20
+    }
+  ],
+  "interactions": [
+    {
+      "id": 1,
+      "client_id": 2,
+      "type": "call",
+      "date": "2023-01-10T12:00:00.000Z",
+      "user_id": 5,
+      "data": {
+        "duration": "48min",
+        "startDateTime": "2023-01-10T12:00:00.000Z",
+        "endDateTime": "2023-01-10T12:48:00.000Z",
+        "type": "sales"
+      }
+    },
+    {
+      "id": 2,
+      "client_id": 4,
+      "type": "meeting",
+      "date": "2023-09-30T12:00:00.000Z",
+      "user_id": 1,
+      "data": {
+        "location": "Online meeting",
+        "startDateTime": "2023-08-18T10:00:00.000Z",
+        "endDateTime": "2023-08-18T10:50:00.000Z",
+        "notes": "Agreed to make revisions to the marketing strategy by 01/31/2024",
+        "number_of_participants": 4
+      }
+    },
+    {
+      "id": 3,
+      "client_id": 2,
+      "type": "email",
+      "date": "2023-09-28T10:00:00.000Z",
+      "user_id": 4,
+      "data": {
+        "recipients": [
+          "jedanemail@gmail.com",
+          "drugiemail@gmail.com"
+        ],
+        "subject": "Marketing strategy changes",
+        "type": "meeting request"
+      }
+    },
+    {
+      "id": 4,
+      "client_id": 5,
+      "type": "call",
+      "date": "2023-01-15T12:00:00.000Z",
+      "user_id": 8,
+      "data": {
+        "duration": "1h 15min",
+        "startDateTime": "2023-01-15T09:30:00.000Z",
+        "endDateTime": "2023-01-15T10:15:00.000Z",
+        "type": "technical support",
+        "status": "resolved"
+      }
+    },
+    {
+      "id": 5,
+      "client_id": 5,
+      "type": "email",
+      "date": "2023-09-28T10:00:00.000Z",
+      "user_id": 4,
+      "data": {
+        "recipients": [
+          "jedanemail@gmail.com"
+        ],
+        "subject": "Invoices for previous period",
+        "type": "invoice"
+      }
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Send October newsletter",
+      "description": "Ensure that the content is accurate, well-proofread, and free of grammatical errors or spelling mistakes. Confirm that the email is being sent to the correct target audience and personalize it as needed.",
+      "priority": "High",
+      "user_id": 1,
+      "client_id": 3,
+      "status": "open",
+      "date_modified": "2023-10-31T09:42:01.999Z"
+    },
+    {
+      "id": "2",
+      "title": "Send photos to marketing sector",
+      "description": "Edit and retouch photos to enhance their visual appeal and alignment before sending.",
+      "priority": "Low",
+      "user_id": 1,
+      "client_id": 1,
+      "status": "progress",
+      "date_modified": "2023-10-31T09:11:08.131Z"
+    },
+    {
+      "id": "3",
+      "title": "Check results of testing 222",
+      "description": "Applying grading or scoring criteria consistently and fairly to all candidates without bias or discrimination",
+      "priority": "Low",
+      "user_id": 2,
+      "client_id": 1,
+      "status": "done",
+      "date_modified": "2023-10-31T09:16:26.785Z"
+    },
+    {
+      "id": "4",
+      "title": "Check mails 2",
+      "description": "Weekly check spam emails.",
+      "priority": "Low",
+      "user_id": 1,
+      "client_id": null,
+      "status": "done",
+      "date_modified": "2023-10-30T15:42:08.918Z"
+    },
+    {
+      "title": "Customer question",
+      "description": "Customer John Doe has sent message: \n\n \"I have a question about the new feature. When will it be available, and how will it work? It seems like a great addition to the app, and I'm excited to use it!\" at October 9, 2023 at 2:30 PM. \n\n Customer's email address is: johndoe@gmail.com",
+      "priority": "High",
+      "user_id": 2,
+      "client_id": 1,
+      "status": "progress",
+      "date_modified": "2023-10-16T14:42:15.758Z",
+      "ticket_id": 1,
+      "id": "OU2gwg1"
+    },
+    {
+      "title": "Customer problem",
+      "description": "Customer Alice Smith has sent message: \n\n \"I found a bug in the app. When I click on the 'Submit' button on the checkout page, nothing happens. Can you please investigate and fix this issue as soon as possible?\" at October 8, 2023 at 10:15 AM. \n\n Customer's email address is: alicesmith@gmail.com",
+      "priority": "High",
+      "user_id": 3,
+      "client_id": 1,
+      "status": "progress",
+      "date_modified": "2023-10-30T15:40:12.075Z",
+      "ticket_id": 2,
+      "id": "gFj6iMQ"
+    },
+    {
+      "title": "Customer problem",
+      "description": "Customer Bob Johnson has sent message: \n\n \"Great job! I love the new design. The user interface is much cleaner and more intuitive. Keep up the excellent work!\" at October 7, 2023 at 4:45 PM. \n\n Customer's email address is: bobjohnson@gmail.com",
+      "priority": "High",
+      "user_id": 3,
+      "client_id": 1,
+      "status": "done",
+      "date_modified": "2023-10-31T09:13:22.208Z",
+      "ticket_id": 3,
+      "id": "36FCDDu"
+    },
+    {
+      "title": "Customer problem",
+      "description": "Customer Emily Brown has sent message: \n\n \"The app is too slow to load. It takes a long time for the homepage to appear after I open the app. This makes the user experience frustrating. Can you optimize the app for better performance?\" at October 6, 2023 at 9:20 AM. \n\n Customer's email address is: emilybrown@gmail.com",
+      "priority": "High",
+      "user_id": 3,
+      "client_id": 1,
+      "status": "open",
+      "date_modified": "2023-10-12T15:41:13.491Z",
+      "ticket_id": 4,
+      "id": "PTiiI_S"
+    },
+    {
+      "title": "Plan sprint",
+      "description": "New description section",
+      "priority": "High",
+      "user_id": 1,
+      "client_id": 2,
+      "status": "open",
+      "date_modified": "2023-10-31T09:10:55.649Z",
+      "id": "eNfFTO6"
+    },
+    {
+      "title": "Test",
+      "description": "Test descr",
+      "priority": "Medium",
+      "user_id": 1,
+      "status": "progress",
+      "date_modified": "2023-10-30T15:19:45.196Z",
+      "id": "NK6up2n"
+    },
+    {
+      "title": "Customer problem",
+      "description": "Customer John Doe has sent message: \n\n \"I have a question about the new feature. When will it be available, and how will it work? It seems like a great addition to the app, and I'm excited to use it!\" at 9 October 2023 at 14:30. \n\n Customer's email address is: johndoe@gmail.com",
+      "priority": "High",
+      "user_id": 3,
+      "client_id": 1,
+      "status": "open",
+      "date_modified": "2023-10-31T09:12:44.855Z",
+      "ticket_id": 1,
+      "id": "lxNMJLO"
+    }
+  ],
+  "reminders": [
+    {
+      "id": 1,
+      "title": "Quarterly Review Meeting",
+      "dateTime": "2023-10-15T14:00:00Z",
+      "status": "inactive"
+    },
+    {
+      "id": 2,
+      "title": "Invoice #12345 Due",
+      "dateTime": "2023-09-30T10:00:00Z",
+      "status": "inactive"
+    },
+    {
+      "id": 3,
+      "title": "New Product Launch",
+      "dateTime": "2023-11-01T09:30:00Z",
+      "status": "inactive"
+    },
+    {
+      "id": 4,
+      "title": "Weekly Team Sync",
+      "dateTime": "2023-10-10T15:30:00Z",
+      "status": "inactive"
+    },
+    {
+      "id": 5,
+      "title": "Trade Show Booth Setup",
+      "dateTime": "2023-09-25T08:00:00Z",
+      "status": "inactive"
+    },
+    {
+      "id": 6,
+      "title": "Sales Training Workshop",
+      "dateTime": "2023-11-05T09:00:00Z",
+      "status": "inactive"
+    },
+    {
+      "id": 7,
+      "title": "Project Proposal Submission",
+      "dateTime": "2023-10-20T17:00:00Z",
+      "status": "inactive"
+    },
+    {
+      "id": 8,
+      "title": "Quarterly Financial Report",
+      "dateTime": "2023-10-05T10:30:00Z",
+      "status": "inactive"
+    },
+    {
+      "id": 9,
+      "title": "Social Media Campaign Launch",
+      "dateTime": "2023-11-15T11:05:00Z",
+      "status": "inactive"
+    },
+    {
+      "id": 10,
+      "title": "Year-End Inventory Audit",
+      "dateTime": "2023-12-31T08:00:00Z",
+      "status": "inactive"
+    },
+    {
+      "title": "Create",
+      "dateTime": "2023-10-09T09:38:00.000Z",
+      "id": 11
+    },
+    {
+      "title": "fsvs",
+      "dateTime": "2023-10-09T09:38:00.000Z",
+      "id": 12
+    },
+    {
+      "title": "vfvs",
+      "dateTime": "2023-10-09T09:38:00.000Z",
+      "status": "inactive",
+      "id": 13
+    },
+    {
+      "title": "Send word document to Dejana",
+      "dateTime": "2023-10-12T12:13:00.000Z",
+      "status": "inactive",
+      "id": 14
+    },
+    {
+      "title": "New",
+      "dateTime": "2023-10-11T12:06:00.000Z",
+      "status": "active",
+      "id": 15
+    }
+  ],
+  "meetings": [
+    {
+      "id": 1,
+      "title": "Sales Team Meeting",
+      "startDateTime": "2023-10-15T09:00:00Z",
+      "endDateTime": "2023-10-15T10:30:00Z",
+      "status": "active",
+      "participants": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Board of Directors Meeting",
+      "startDateTime": "2023-09-30T14:00:00Z",
+      "endDateTime": "2023-09-30T17:05:00Z",
+      "status": "active",
+      "participants": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Project Kickoff Meeting",
+      "startDateTime": "2023-11-01T13:00:00Z",
+      "endDateTime": "2023-11-01T13:45:00Z",
+      "status": "active",
+      "participants": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "naslov",
+      "startDateTime": "2023-10-16T15:43:00.000Z",
+      "endDateTime": "2023-10-16T16:43:00.000Z",
+      "status": "active",
+      "participants": [
+        2,
+        3
+      ],
+      "id": 4
+    },
+    {
+      "title": "Marketing",
+      "startDateTime": "2023-10-16T15:45:00.000Z",
+      "endDateTime": "2023-10-16T16:45:00.000Z",
+      "status": "active",
+      "participants": [
+        2,
+        3
+      ],
+      "id": 5
+    },
+    {
+      "title": "csxvsd",
+      "startDateTime": "2023-10-17T10:02:00.000Z",
+      "endDateTime": "2023-10-17T11:02:00.000Z",
+      "status": "inactive",
+      "participants": [
+        1
+      ],
+      "id": 6
+    },
+    {
+      "title": "new meet",
+      "startDateTime": "2023-10-17T11:51:00.000Z",
+      "endDateTime": "2023-10-17T12:51:00.000Z",
+      "status": "active",
+      "participants": [
+        2,
+        3,
+        1
+      ],
+      "id": 7
+    },
+    {
+      "title": "Testing session",
+      "startDateTime": "2023-10-26T10:19:00.000Z",
+      "endDateTime": "2023-10-26T11:19:00.000Z",
+      "status": "active",
+      "participants": [
+        5,
+        4,
+        8,
+        1
+      ],
+      "id": 8
+    },
+    {
+      "title": "test",
+      "startDateTime": "2023-10-27T10:20:00.000Z",
+      "endDateTime": "2023-10-27T11:20:00.000Z",
+      "status": "active",
+      "participants": [
+        3,
+        1
+      ],
+      "id": 9
+    },
+    {
+      "title": "cdcdscd",
+      "startDateTime": "2023-10-26T10:20:00.000Z",
+      "endDateTime": "2023-10-26T11:20:00.000Z",
+      "status": "active",
+      "participants": [
+        3,
+        4,
+        1
+      ],
+      "id": 10
+    },
+    {
+      "title": "novi 1",
+      "startDateTime": "2023-10-26T10:22:00.000Z",
+      "endDateTime": "2023-10-26T11:22:00.000Z",
+      "status": "active",
+      "participants": [
+        2,
+        8,
+        5,
+        1
+      ],
+      "id": 11
+    },
+    {
+      "title": "novi 2",
+      "startDateTime": "2023-10-26T10:23:00.000Z",
+      "endDateTime": "2023-10-26T11:23:00.000Z",
+      "status": "inactive",
+      "participants": [
+        2,
+        4,
+        6,
+        1
+      ],
+      "id": 12
+    },
+    {
+      "title": "danas",
+      "startDateTime": "2023-10-26T10:23:00.000Z",
+      "endDateTime": "2023-10-26T11:23:00.000Z",
+      "status": "inactive",
+      "participants": [
+        2,
+        1
+      ],
+      "id": 13
+    },
+    {
+      "title": "nije danas",
+      "startDateTime": "2023-10-27T10:43:00.000Z",
+      "endDateTime": "2023-10-27T11:43:00.000Z",
+      "status": "active",
+      "participants": [
+        2,
+        4,
+        1
+      ],
+      "id": 14
+    }
+  ],
+  "opportunities": [
+    {
+      "id": 1,
+      "client_id": 2,
+      "opportunity": "opportunity1",
+      "description": "Indian company that specializes in traffic analysis related works.",
+      "status": "Pending"
+    },
+    {
+      "id": 2,
+      "client_id": 3,
+      "opportunity": "opportunity2",
+      "description": "Eco Wave Power Global a leading, publicly traded onshore wave energy technology company that developed a patented, smart and cost-efficient technology for turning ocean and sea waves into green electricity.",
+      "status": "Open"
+    },
+    {
+      "id": 3,
+      "client_id": 1,
+      "opportunity": "opportunity3",
+      "description": "Enjoy the convenience of having a variety of services at your doorstep, including bars, pastry shops, restaurants, supermarkets...",
+      "status": "Closed"
+    },
+    {
+      "id": 4,
+      "client_id": 4,
+      "opportunity": "opportunity4",
+      "description": "A multi-billion dollar global industry, catalysts are essential to the world’s industrial production.",
+      "status": "Waiting for response"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "Sifra111...",
+      "role": "admin",
+      "gender": "female",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "logo": "1-logo.jpg"
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "password": "password2",
+      "role": "ticket_question",
+      "gender": "male",
+      "firstName": "Adam",
+      "lastName": "Musk",
+      "logo": "2-logo.jpg"
+    },
+    {
+      "id": 3,
+      "username": "user3",
+      "password": "password2",
+      "role": "ticket_problem",
+      "gender": "female",
+      "firstName": "Zara",
+      "lastName": "Johnson",
+      "logo": "3-logo.png"
+    },
+    {
+      "id": 4,
+      "username": "user4",
+      "password": "password2",
+      "role": "admin",
+      "gender": "male",
+      "firstName": "Mark",
+      "lastName": "Lopez",
+      "logo": "4-logo.png"
+    },
+    {
+      "id": 5,
+      "username": "user5",
+      "password": "password2",
+      "role": "admin",
+      "gender": "female",
+      "firstName": "Sarah",
+      "lastName": "Andreson",
+      "logo": "5-logo.png"
+    },
+    {
+      "id": 6,
+      "username": "user6",
+      "password": "password2",
+      "role": "admin",
+      "gender": "male",
+      "firstName": "Robert",
+      "lastName": "Brown",
+      "logo": "6-logo.png"
+    },
+    {
+      "id": 7,
+      "username": "user7",
+      "password": "password2",
+      "role": "admin",
+      "gender": "male",
+      "firstName": "James",
+      "lastName": "Davis",
+      "logo": "7-logo.png"
+    },
+    {
+      "id": 8,
+      "username": "user9",
+      "password": "password2",
+      "role": "admin",
+      "gender": "female",
+      "firstName": "Emma",
+      "lastName": "Davis",
+      "logo": "8-logo.png"
+    },
+    {
+      "id": 9,
+      "username": "user3",
+      "password": "password2",
+      "role": "admin",
+      "gender": "male",
+      "firstName": "Thomas",
+      "lastName": "Young",
+      "logo": "9-logo.jpg"
+    }
+  ],
+  "tickets": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@gmail.com",
+      "timestamp": "2023-10-09 14:30",
+      "feedbackText": "I have a question about the new feature. When will it be available, and how will it work? It seems like a great addition to the app, and I'm excited to use it!",
+      "type": "praise",
+      "status": null,
+      "user_id": null,
+      "client_id": 1,
+      "seen": 1
+    },
+    {
+      "id": 2,
+      "name": "Alice Smith",
+      "email": "alicesmith@gmail.com",
+      "timestamp": "2023-10-08 10:15",
+      "feedbackText": "I found a bug in the app. When I click on the 'Submit' button on the checkout page, nothing happens. Can you please investigate and fix this issue as soon as possible?",
+      "type": "problem",
+      "status": "progress",
+      "client_id": 1,
+      "seen": 1,
+      "user_id": 3
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "bobjohnson@gmail.com",
+      "timestamp": "2023-10-07 16:45",
+      "feedbackText": "Great job! I love the new design. The user interface is much cleaner and more intuitive. Keep up the excellent work!",
+      "type": "problem",
+      "status": "done",
+      "client_id": 1,
+      "seen": 1,
+      "user_id": 3
+    },
+    {
+      "id": 4,
+      "name": "Emily Brown",
+      "email": "emilybrown@gmail.com",
+      "timestamp": "2023-10-06 09:20",
+      "feedbackText": "The app is too slow to load. It takes a long time for the homepage to appear after I open the app. This makes the user experience frustrating. Can you optimize the app for better performance?",
+      "type": "problem",
+      "status": "open",
+      "client_id": 1,
+      "seen": 1,
+      "user_id": 3
+    }
+  ],
+  "reportsSales": [
+    {
+      "id": 1,
+      "client_id": 1,
+      "saleName": "Summer Sale",
+      "quantity": 15,
+      "description": "Special discount on summer products",
+      "status": "Pending"
+    },
+    {
+      "id": 2,
+      "client_id": 2,
+      "saleName": "Back to School Sale",
+      "quantity": 10,
+      "description": "Sale for back-to-school items",
+      "status": "Sold"
+    },
+    {
+      "id": 3,
+      "client_id": 3,
+      "saleName": "Holiday Season Sale",
+      "quantity": 20,
+      "description": "Festive season promotion",
+      "status": "In progress"
+    },
+    {
+      "id": 4,
+      "client_id": 1,
+      "saleName": "Black Friday Sale",
+      "quantity": 25,
+      "description": "Big discounts on Black Friday",
+      "status": "Sold"
+    },
+    {
+      "id": 5,
+      "client_id": 4,
+      "saleName": "Spring Clearance Sale",
+      "quantity": 30,
+      "description": "Clearance of spring items",
+      "status": "Pending"
+    }
+  ],
+  "engagements": [
+    {
+      "id": 1,
+      "client_id": 1,
+      "engagementStart": "2023-08-13T12:00:00.000Z",
+      "engagementEnd": "2023-08-13T12:00:00.000Z",
+      "profitCenter": "Retail",
+      "price": "$1200"
+    },
+    {
+      "id": 2,
+      "client_id": 2,
+      "engagementStart": "2023-08-13T12:00:00.000Z",
+      "engagementEnd": "2023-08-13T12:00:00.000Z",
+      "profitCenter": "Education",
+      "price": "$1800"
+    },
+    {
+      "id": 3,
+      "client_id": 3,
+      "engagementStart": "2023-08-13T12:00:00.000Z",
+      "engagementEnd": "2023-08-13T12:00:00.000Z",
+      "profitCenter": "Healthcare",
+      "price": "$1500"
+    },
+    {
+      "id": 4,
+      "client_id": 1,
+      "engagementStart": "2023-08-13T12:00:00.000Z",
+      "engagementEnd": "2023-08-13T12:00:00.000Z",
+      "profitCenter": "Technology",
+      "price": "$2000"
+    },
+    {
+      "id": 5,
+      "client_id": 4,
+      "engagementStart": "2023-08-13T12:00:00.000Z",
+      "engagementEnd": "2023-08-13T12:00:00.000Z",
+      "profitCenter": "Automotive",
+      "price": "$1400"
+    }
+  ],
+  "cashFlow": [
+    {
+      "id": "last30Days",
+      "total": 1200,
+      "percent": 65,
+      "incoming": 15800,
+      "outgoing": 4600
+    },
+    {
+      "id": "last6Months",
+      "total": 71050,
+      "percent": 27,
+      "incoming": 91050,
+      "outgoing": 20000
+    },
+    {
+      "id": "thisYear",
+      "total": 81360,
+      "percent": 10,
+      "incoming": 141860,
+      "outgoing": 60500
+    },
+    {
+      "id": "lastYear",
+      "total": 76800,
+      "percent": -8,
+      "incoming": 23200,
+      "outgoing": 100000
+    }
+  ],
+  "sales": [
+    {
+      "data": [
+        {
+          "id": 0,
+          "value": 10,
+          "label": "Fiyu SaaS"
+        },
+        {
+          "id": 1,
+          "value": 15,
+          "label": "Ivy Core"
+        },
+        {
+          "id": 2,
+          "value": 20,
+          "label": "Vista"
+        },
+        {
+          "id": 3,
+          "value": 50,
+          "label": "Flexi"
+        }
+      ]
+    }
+  ],
+  "monthlyReport": [
+    {
+      "id": 2023,
+      "data": [
+        {
+          "month": "January",
+          "sales": 5500
+        },
+        {
+          "month": "February",
+          "sales": 15030
+        },
+        {
+          "month": "March",
+          "sales": 12050
+        },
+        {
+          "month": "April",
+          "sales": 18230
+        },
+        {
+          "month": "May",
+          "sales": 16000
+        },
+        {
+          "month": "June",
+          "sales": 22200
+        },
+        {
+          "month": "July",
+          "sales": 10000
+        },
+        {
+          "month": "August",
+          "sales": 15000
+        },
+        {
+          "month": "September",
+          "sales": 12050
+        },
+        {
+          "month": "October",
+          "sales": 15800
+        },
+        {
+          "month": "November",
+          "sales": 0
+        },
+        {
+          "month": "December",
+          "sales": 0
+        }
+      ]
+    },
+    {
+      "id": 2022,
+      "data": [
+        {
+          "month": "January",
+          "sales": 5500
+        },
+        {
+          "month": "February",
+          "sales": 8030
+        },
+        {
+          "month": "March",
+          "sales": 8050
+        },
+        {
+          "month": "April",
+          "sales": 18230
+        },
+        {
+          "month": "May",
+          "sales": 24000
+        },
+        {
+          "month": "June",
+          "sales": 3000
+        },
+        {
+          "month": "July",
+          "sales": 5000
+        },
+        {
+          "month": "August",
+          "sales": 15000
+        },
+        {
+          "month": "September",
+          "sales": 14050
+        },
+        {
+          "month": "October",
+          "sales": 15800
+        },
+        {
+          "month": "November",
+          "sales": 8000
+        },
+        {
+          "month": "December",
+          "sales": 5000
+        }
+      ]
+    }
+  ],
+  "industry": [
+    {
+      "id": 1,
+      "name": "Agriculture",
+      "user_id": 5,
+      "background": "#dbffb6"
+    },
+    {
+      "id": 2,
+      "name": "Energy",
+      "user_id": 2,
+      "background": "#AED6F1"
+    },
+    {
+      "id": 3,
+      "name": "Education",
+      "user_id": 4,
+      "background": "#ffea7b"
+    },
+    {
+      "id": 4,
+      "name": "Finance",
+      "user_id": 8,
+      "background": "#C5A3FF"
+    },
+    {
+      "id": 5,
+      "name": "Hospitality",
+      "user_id": 8,
+      "background": "#FFDAB9"
+    },
+    {
+      "id": 6,
+      "name": "Government",
+      "user_id": 6,
+      "background": "#E6E6FA"
+    },
+    {
+      "id": 7,
+      "name": "Transportation",
+      "user_id": 4,
+      "background": "#98FB98"
+    },
+    {
+      "id": 8,
+      "name": "Real Estate",
+      "user_id": 3,
+      "background": "#FF6B6B"
+    }
+  ],
+  "tests": [
+    {
+      "text": "Item 1",
+      "index": 0
+    },
+    {
+      "text": "Item 2",
+      "index": 1
+    },
+    {
+      "text": "Item 3",
+      "index": 2
+    }
+  ]
+}

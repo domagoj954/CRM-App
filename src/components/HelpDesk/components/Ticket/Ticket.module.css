@@ -1,0 +1,48 @@
+.actionButton {
+  margin: 10px 5px !important;
+  font-size: 10px !important;
+  border-radius: 15px !important;
+}
+
+.ticket {
+  padding-left: 0px;
+  padding-top: 5px;
+}
+
+.ticketCard {
+  padding: 0;
+  border-radius: 8px;
+}
+
+.ticketContent {
+  padding-bottom: 0;
+}
+
+.ticketUsername {
+  font-size: 14px;
+}
+
+.feedbackText {
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.date {
+  font-style: italic;
+}
+
+.ticketActions {
+  padding-right: 15px;
+}
+
+.actions {
+  text-align: right;
+  width: 100%;
+}
+
+.questionButton {
+  background: #e4e21d !important;
+}
+.praiseButton {
+  background: #7bec7b !important;
+}

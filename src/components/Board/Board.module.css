@@ -1,0 +1,24 @@
+.checklist {
+  padding-left: 25px;
+}
+
+.addNewTaskButton {
+  margin: 10px 5px !important;
+  font-size: 10px !important;
+  border-radius: 15px !important;
+}
+.viewAllActive {
+  margin: 10px 5px !important;
+  font-size: 10px !important;
+  border-radius: 15px !important;
+  background-color: #acc5dd4d !important;
+  border-color: blue !important;
+  border: 1px solid !important;
+}
+.viewAll {
+  margin: 10px 5px !important;
+  font-size: 10px !important;
+  border-radius: 15px !important;
+  border-color: blue !important;
+  border: 1px solid !important;
+}

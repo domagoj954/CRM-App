@@ -1,0 +1,38 @@
+.remindersList {
+  overflow-y: hidden;
+  max-height: 300px;
+  width: 100%;
+}
+
+.remindersList:hover {
+  overflow-y: auto;
+}
+
+.reminders {
+  max-width: 400px;
+  margin: 0 auto;
+  box-shadow: none !important;
+  height: 400px;
+}
+
+.remindersTitle {
+  background-color: #f05656;
+  color: white;
+  padding: 8px;
+  border-radius: 12px;
+  font-size: 1rem !important;
+}
+
+.addNewReminder {
+  margin: 10px 5px !important;
+  float: right;
+  font-size: 10px !important;
+  border-radius: 15px !important;
+}
+
+.noRemindersMessage {
+  justify-content: center;
+  display: flex;
+  color: gray;
+  font-style: italic;
+}

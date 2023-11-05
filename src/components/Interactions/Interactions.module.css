@@ -1,0 +1,14 @@
+.collapsible-row {
+  transition: max-height 0.5s ease-in-out; /* Adjust the duration as needed */
+  max-height: 1000px; /* Set a reasonable maximum height */
+}
+
+.collapsible-row.collapsed {
+  max-height: 0;
+  overflow: hidden;
+}
+
+.collapsing {
+  max-height: 1000px; /* Set a reasonable maximum height */
+  transition: max-height 0.3s ease-in-out; /* Adjust the duration and timing function as needed */
+}
